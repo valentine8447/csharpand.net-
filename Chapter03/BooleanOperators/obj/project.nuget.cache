@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LSbY7z4gk3k97YQAdLd2W8gPq5E/Mw4CvaH0e6Ib0ZT5zyl1ZG7idgPXot4o/LB09ZNYxgjTMSXYK1bHka2BKQ==",
+  "dgSpecHash": "cU5XreZB6mTorVFbMS2O/Fs5soQQdX+pvvTBAzJi+UDm3UDvckaj63JzXrJBfJDfZfPW78pRyDT8K169eD2opw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valentina\\Documents\\FullStackDevelopment\\CSharpAndDotNet\\Chapter03\\BooleanOperators\\BooleanOperators.csproj",
+  "projectFilePath": "C:\\Users\\valentina\\Documents\\FullStackDevelopment\\csharpand.net-\\Chapter03\\BooleanOperators\\BooleanOperators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
