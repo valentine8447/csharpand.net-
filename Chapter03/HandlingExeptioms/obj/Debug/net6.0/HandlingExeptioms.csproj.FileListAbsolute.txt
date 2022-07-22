@@ -1,0 +1,15 @@
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter03\HandlingExeptioms\bin\Debug\net6.0\HandlingExeptioms.exe
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter03\HandlingExeptioms\bin\Debug\net6.0\HandlingExeptioms.deps.json
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter03\HandlingExeptioms\bin\Debug\net6.0\HandlingExeptioms.runtimeconfig.json
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter03\HandlingExeptioms\bin\Debug\net6.0\HandlingExeptioms.dll
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter03\HandlingExeptioms\bin\Debug\net6.0\HandlingExeptioms.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter03\HandlingExeptioms\obj\Debug\net6.0\HandlingExeptioms.csproj.AssemblyReference.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter03\HandlingExeptioms\obj\Debug\net6.0\HandlingExeptioms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter03\HandlingExeptioms\obj\Debug\net6.0\HandlingExeptioms.AssemblyInfoInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter03\HandlingExeptioms\obj\Debug\net6.0\HandlingExeptioms.AssemblyInfo.cs
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter03\HandlingExeptioms\obj\Debug\net6.0\HandlingExeptioms.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter03\HandlingExeptioms\obj\Debug\net6.0\HandlingExeptioms.dll
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter03\HandlingExeptioms\obj\Debug\net6.0\refint\HandlingExeptioms.dll
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter03\HandlingExeptioms\obj\Debug\net6.0\HandlingExeptioms.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter03\HandlingExeptioms\obj\Debug\net6.0\HandlingExeptioms.genruntimeconfig.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter03\HandlingExeptioms\obj\Debug\net6.0\ref\HandlingExeptioms.dll
