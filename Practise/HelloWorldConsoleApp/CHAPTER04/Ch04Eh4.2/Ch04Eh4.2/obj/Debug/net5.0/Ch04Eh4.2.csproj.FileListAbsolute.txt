@@ -1,0 +1,16 @@
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\bin\Debug\net5.0\Ch04Eh4.2.exe
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\bin\Debug\net5.0\Ch04Eh4.2.deps.json
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\bin\Debug\net5.0\Ch04Eh4.2.runtimeconfig.json
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\bin\Debug\net5.0\Ch04Eh4.2.runtimeconfig.dev.json
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\bin\Debug\net5.0\Ch04Eh4.2.dll
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\bin\Debug\net5.0\Ch04Eh4.2.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\obj\Debug\net5.0\Ch04Eh4.2.csproj.AssemblyReference.cache
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\obj\Debug\net5.0\Ch04Eh4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\obj\Debug\net5.0\Ch04Eh4.2.AssemblyInfoInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\obj\Debug\net5.0\Ch04Eh4.2.AssemblyInfo.cs
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\obj\Debug\net5.0\Ch04Eh4.2.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\obj\Debug\net5.0\Ch04Eh4.2.dll
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\obj\Debug\net5.0\refint\Ch04Eh4.2.dll
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\obj\Debug\net5.0\Ch04Eh4.2.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\obj\Debug\net5.0\Ch04Eh4.2.genruntimeconfig.cache
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Ch04Eh4.2\Ch04Eh4.2\obj\Debug\net5.0\ref\Ch04Eh4.2.dll
