@@ -1,0 +1,7 @@
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter02\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter02\WpfApp1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter02\WpfApp1\obj\Debug\net5.0-windows\WpfApp1\App.g.cs
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter02\WpfApp1\obj\Debug\net5.0-windows\WpfApp1\MainWindow.g.cs
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter02\WpfApp1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter02\WpfApp1\obj\Debug\net5.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter02\WpfApp1\obj\Debug\net5.0-windows\WpfApp1_MarkupCompile.lref

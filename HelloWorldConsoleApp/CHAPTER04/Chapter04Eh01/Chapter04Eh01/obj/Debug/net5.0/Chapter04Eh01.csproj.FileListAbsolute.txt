@@ -1,0 +1,16 @@
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\bin\Debug\net5.0\Chapter04Eh01.exe
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\bin\Debug\net5.0\Chapter04Eh01.deps.json
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\bin\Debug\net5.0\Chapter04Eh01.runtimeconfig.json
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\bin\Debug\net5.0\Chapter04Eh01.runtimeconfig.dev.json
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\bin\Debug\net5.0\Chapter04Eh01.dll
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\bin\Debug\net5.0\Chapter04Eh01.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\obj\Debug\net5.0\Chapter04Eh01.csproj.AssemblyReference.cache
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\obj\Debug\net5.0\Chapter04Eh01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\obj\Debug\net5.0\Chapter04Eh01.AssemblyInfoInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\obj\Debug\net5.0\Chapter04Eh01.AssemblyInfo.cs
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\obj\Debug\net5.0\Chapter04Eh01.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\obj\Debug\net5.0\Chapter04Eh01.dll
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\obj\Debug\net5.0\refint\Chapter04Eh01.dll
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\obj\Debug\net5.0\Chapter04Eh01.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\obj\Debug\net5.0\Chapter04Eh01.genruntimeconfig.cache
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER04\Chapter04Eh01\Chapter04Eh01\obj\Debug\net5.0\ref\Chapter04Eh01.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valentina\\Documents\\FullStackDevelopment\\CSharpAndDotNet\\Chapter02\\Chapter02\\Vocabulary\\Vocabulary.csproj": {}
+    "C:\\Users\\valentina\\Documents\\FullStackDevelopment\\csharpand.net-\\Chapter02\\Chapter02\\Vocabulary\\Vocabulary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valentina\\Documents\\FullStackDevelopment\\CSharpAndDotNet\\Chapter02\\Chapter02\\Vocabulary\\Vocabulary.csproj": {
+    "C:\\Users\\valentina\\Documents\\FullStackDevelopment\\csharpand.net-\\Chapter02\\Chapter02\\Vocabulary\\Vocabulary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valentina\\Documents\\FullStackDevelopment\\CSharpAndDotNet\\Chapter02\\Chapter02\\Vocabulary\\Vocabulary.csproj",
+        "projectUniqueName": "C:\\Users\\valentina\\Documents\\FullStackDevelopment\\csharpand.net-\\Chapter02\\Chapter02\\Vocabulary\\Vocabulary.csproj",
         "projectName": "Vocabulary",
-        "projectPath": "C:\\Users\\valentina\\Documents\\FullStackDevelopment\\CSharpAndDotNet\\Chapter02\\Chapter02\\Vocabulary\\Vocabulary.csproj",
+        "projectPath": "C:\\Users\\valentina\\Documents\\FullStackDevelopment\\csharpand.net-\\Chapter02\\Chapter02\\Vocabulary\\Vocabulary.csproj",
         "packagesPath": "C:\\Users\\valentina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valentina\\Documents\\FullStackDevelopment\\CSharpAndDotNet\\Chapter02\\Chapter02\\Vocabulary\\obj\\",
+        "outputPath": "C:\\Users\\valentina\\Documents\\FullStackDevelopment\\csharpand.net-\\Chapter02\\Chapter02\\Vocabulary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valentina\\AppData\\Roaming\\NuGet\\NuGet.Config",

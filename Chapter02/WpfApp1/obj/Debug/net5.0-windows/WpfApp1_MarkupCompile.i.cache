@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\valentina\Documents\FullStackDevelopment\CSharpAndDotNet\Chapter02\WpfApp1\obj\Debug\net5.0-windows\
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter02\WpfApp1\obj\Debug\net5.0-windows\
 WpfApp1
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\valentina\Documents\FullStackDevelopment\CSharpAndDotNet\Chapter02\WpfApp1\App.xaml
-11407045341
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter02\WpfApp1\App.xaml
+31960251786
 
-5-1673488112
+15-1138893674
 193-1891726104
-MainWindow.xaml;
+MainWindow.xaml;WpfApp1\App.xaml;WpfApp1\MainWindow.xaml;
 
 False
 

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter02\WpfApp1\App.xaml
-11407045341
+31960251786
 
-3-1233169557
+13-698575119
 193-1891726104
-MainWindow.xaml;
+MainWindow.xaml;WpfApp1\App.xaml;WpfApp1\MainWindow.xaml;
 
 True
 
