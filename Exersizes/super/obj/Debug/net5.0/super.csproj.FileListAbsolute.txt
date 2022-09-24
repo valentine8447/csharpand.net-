@@ -1,0 +1,12 @@
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER03\Exersizes\super\bin\Debug\net5.0\super.deps.json
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER03\Exersizes\super\bin\Debug\net5.0\super.dll
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER03\Exersizes\super\bin\Debug\net5.0\super.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER03\Exersizes\super\obj\Debug\net5.0\super.csproj.AssemblyReference.cache
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER03\Exersizes\super\obj\Debug\net5.0\super.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER03\Exersizes\super\obj\Debug\net5.0\super.AssemblyInfoInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER03\Exersizes\super\obj\Debug\net5.0\super.AssemblyInfo.cs
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER03\Exersizes\super\obj\Debug\net5.0\super.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER03\Exersizes\super\obj\Debug\net5.0\super.dll
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER03\Exersizes\super\obj\Debug\net5.0\refint\super.dll
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER03\Exersizes\super\obj\Debug\net5.0\super.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\Practise\HelloWorldConsoleApp\CHAPTER03\Exersizes\super\obj\Debug\net5.0\ref\super.dll
