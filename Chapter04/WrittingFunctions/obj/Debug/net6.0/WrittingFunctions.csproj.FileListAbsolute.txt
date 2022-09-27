@@ -1,0 +1,15 @@
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter04\WrittingFunctions\bin\Debug\net6.0\WrittingFunctions.exe
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter04\WrittingFunctions\bin\Debug\net6.0\WrittingFunctions.deps.json
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter04\WrittingFunctions\bin\Debug\net6.0\WrittingFunctions.runtimeconfig.json
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter04\WrittingFunctions\bin\Debug\net6.0\WrittingFunctions.dll
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter04\WrittingFunctions\bin\Debug\net6.0\WrittingFunctions.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter04\WrittingFunctions\obj\Debug\net6.0\WrittingFunctions.csproj.AssemblyReference.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter04\WrittingFunctions\obj\Debug\net6.0\WrittingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter04\WrittingFunctions\obj\Debug\net6.0\WrittingFunctions.AssemblyInfoInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter04\WrittingFunctions\obj\Debug\net6.0\WrittingFunctions.AssemblyInfo.cs
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter04\WrittingFunctions\obj\Debug\net6.0\WrittingFunctions.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter04\WrittingFunctions\obj\Debug\net6.0\WrittingFunctions.dll
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter04\WrittingFunctions\obj\Debug\net6.0\refint\WrittingFunctions.dll
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter04\WrittingFunctions\obj\Debug\net6.0\WrittingFunctions.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter04\WrittingFunctions\obj\Debug\net6.0\WrittingFunctions.genruntimeconfig.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\Chapter04\WrittingFunctions\obj\Debug\net6.0\ref\WrittingFunctions.dll
