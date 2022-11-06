@@ -1,0 +1,15 @@
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\ConstructorsAndDestructors\bin\Debug\net6.0\ConstructorsAndDestructors.exe
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\ConstructorsAndDestructors\bin\Debug\net6.0\ConstructorsAndDestructors.deps.json
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\ConstructorsAndDestructors\bin\Debug\net6.0\ConstructorsAndDestructors.runtimeconfig.json
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\ConstructorsAndDestructors\bin\Debug\net6.0\ConstructorsAndDestructors.dll
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\ConstructorsAndDestructors\bin\Debug\net6.0\ConstructorsAndDestructors.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.csproj.AssemblyReference.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.AssemblyInfoInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.AssemblyInfo.cs
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.dll
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\ConstructorsAndDestructors\obj\Debug\net6.0\refint\ConstructorsAndDestructors.dll
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\ConstructorsAndDestructors\obj\Debug\net6.0\ConstructorsAndDestructors.genruntimeconfig.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\ConstructorsAndDestructors\obj\Debug\net6.0\ref\ConstructorsAndDestructors.dll

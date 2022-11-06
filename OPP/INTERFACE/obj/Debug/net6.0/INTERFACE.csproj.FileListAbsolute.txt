@@ -1,0 +1,15 @@
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\INTERFACE\obj\Debug\net6.0\INTERFACE.csproj.AssemblyReference.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\INTERFACE\obj\Debug\net6.0\INTERFACE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\INTERFACE\obj\Debug\net6.0\INTERFACE.AssemblyInfoInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\INTERFACE\obj\Debug\net6.0\INTERFACE.AssemblyInfo.cs
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\INTERFACE\obj\Debug\net6.0\INTERFACE.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\INTERFACE\bin\Debug\net6.0\INTERFACE.exe
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\INTERFACE\bin\Debug\net6.0\INTERFACE.deps.json
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\INTERFACE\bin\Debug\net6.0\INTERFACE.runtimeconfig.json
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\INTERFACE\bin\Debug\net6.0\INTERFACE.dll
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\INTERFACE\bin\Debug\net6.0\INTERFACE.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\INTERFACE\obj\Debug\net6.0\INTERFACE.dll
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\INTERFACE\obj\Debug\net6.0\refint\INTERFACE.dll
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\INTERFACE\obj\Debug\net6.0\INTERFACE.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\INTERFACE\obj\Debug\net6.0\INTERFACE.genruntimeconfig.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\INTERFACE\obj\Debug\net6.0\ref\INTERFACE.dll

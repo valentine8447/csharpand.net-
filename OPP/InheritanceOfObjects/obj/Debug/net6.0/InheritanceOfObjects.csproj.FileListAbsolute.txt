@@ -1,0 +1,15 @@
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\InheritanceOfObjects\bin\Debug\net6.0\InheritanceOfObjects.exe
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\InheritanceOfObjects\bin\Debug\net6.0\InheritanceOfObjects.deps.json
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\InheritanceOfObjects\bin\Debug\net6.0\InheritanceOfObjects.runtimeconfig.json
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\InheritanceOfObjects\bin\Debug\net6.0\InheritanceOfObjects.dll
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\InheritanceOfObjects\bin\Debug\net6.0\InheritanceOfObjects.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\InheritanceOfObjects\obj\Debug\net6.0\InheritanceOfObjects.csproj.AssemblyReference.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\InheritanceOfObjects\obj\Debug\net6.0\InheritanceOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\InheritanceOfObjects\obj\Debug\net6.0\InheritanceOfObjects.AssemblyInfoInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\InheritanceOfObjects\obj\Debug\net6.0\InheritanceOfObjects.AssemblyInfo.cs
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\InheritanceOfObjects\obj\Debug\net6.0\InheritanceOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\InheritanceOfObjects\obj\Debug\net6.0\InheritanceOfObjects.dll
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\InheritanceOfObjects\obj\Debug\net6.0\refint\InheritanceOfObjects.dll
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\InheritanceOfObjects\obj\Debug\net6.0\InheritanceOfObjects.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\InheritanceOfObjects\obj\Debug\net6.0\InheritanceOfObjects.genruntimeconfig.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\InheritanceOfObjects\obj\Debug\net6.0\ref\InheritanceOfObjects.dll

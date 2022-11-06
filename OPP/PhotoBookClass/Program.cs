@@ -1,0 +1,3 @@
+﻿using PhotoBookClass;
+
+BigPhotoBookTest.ShowBooks();

@@ -1,0 +1,15 @@
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.AssemblyInfo.cs
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\AbstractClasses\bin\Debug\net6.0\AbstractClasses.exe
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\AbstractClasses\bin\Debug\net6.0\AbstractClasses.deps.json
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\AbstractClasses\bin\Debug\net6.0\AbstractClasses.runtimeconfig.json
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\AbstractClasses\bin\Debug\net6.0\AbstractClasses.dll
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\AbstractClasses\bin\Debug\net6.0\AbstractClasses.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.dll
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\AbstractClasses\obj\Debug\net6.0\refint\AbstractClasses.dll
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\AbstractClasses\obj\Debug\net6.0\AbstractClasses.genruntimeconfig.cache
+C:\Users\valentina\Documents\FullStackDevelopment\csharpand.net-\OPP\AbstractClasses\obj\Debug\net6.0\ref\AbstractClasses.dll

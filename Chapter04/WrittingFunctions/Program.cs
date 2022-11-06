@@ -1,6 +1,9 @@
 ﻿using static System.Console;
 
-static void TimesTable(byte number)
+
+
+/*static void  TimesTable(byte number)
+
 {
     WriteLine($"This is the {number} times table");
 
@@ -10,10 +13,10 @@ static void TimesTable(byte number)
     }
 }
 
-//TimesTable(number: 7);
+TimesTable(number: 7);*/
 
 
-static decimal CalculateTax(
+/*static decimal CalculateTax(
     decimal amount, string twoLetterRegionCode)
 {
     decimal rate = 0.0M;
@@ -57,6 +60,10 @@ switch (twoLetterRegionCode)
 
 return amount * rate;
 }
+*/
+
+
+
 
 //int productValue1 = 50;
 //WriteLine($"The value plus tax for the product in Hungary is : {productValue1 + tax1}");
@@ -104,4 +111,44 @@ static void RunCardinalToOrdinal()
 }
 
 
-    
+static int Factorial(int number)
+{
+    if (number < 1)
+    {
+        return 0;
+    }
+    else if (number == 1)
+    {
+        return 1;
+    }
+    else
+    {
+        checked // for overflow
+        {
+            int returnVal = Factorial(number - 1);
+            int res = number * returnVal;
+            return res;
+        }
+    }
+}
+
+
+static void RunFactorial()
+{
+    for (int i = 1; i < 15; i++)
+    {
+        try
+        {
+            WriteLine($"{i}! = {Factorial(i):N0}");
+        }
+        catch (OverflowException ex)
+        {
+            WriteLine($"{i}! is too big for a 32-bit integer.");
+        }
+        catch(Exception ex)
+        {
+            throw;
+        }
+    }
+}
+RunFactorial();

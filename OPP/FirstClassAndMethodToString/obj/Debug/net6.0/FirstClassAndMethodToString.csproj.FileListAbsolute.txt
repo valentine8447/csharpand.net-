@@ -1,0 +1,15 @@
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\FirstClassAndMethodToString\bin\Debug\net6.0\FirstClassAndMethodToString.exe
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\FirstClassAndMethodToString\bin\Debug\net6.0\FirstClassAndMethodToString.deps.json
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\FirstClassAndMethodToString\bin\Debug\net6.0\FirstClassAndMethodToString.runtimeconfig.json
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\FirstClassAndMethodToString\bin\Debug\net6.0\FirstClassAndMethodToString.dll
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\FirstClassAndMethodToString\bin\Debug\net6.0\FirstClassAndMethodToString.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.csproj.AssemblyReference.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.AssemblyInfoInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.AssemblyInfo.cs
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.dll
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\FirstClassAndMethodToString\obj\Debug\net6.0\refint\FirstClassAndMethodToString.dll
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\FirstClassAndMethodToString\obj\Debug\net6.0\FirstClassAndMethodToString.genruntimeconfig.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\FirstClassAndMethodToString\obj\Debug\net6.0\ref\FirstClassAndMethodToString.dll

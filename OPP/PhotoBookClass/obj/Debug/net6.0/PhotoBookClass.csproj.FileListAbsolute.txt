@@ -1,0 +1,15 @@
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\PhotoBookClass\bin\Debug\net6.0\PhotoBookClass.exe
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\PhotoBookClass\bin\Debug\net6.0\PhotoBookClass.deps.json
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\PhotoBookClass\bin\Debug\net6.0\PhotoBookClass.runtimeconfig.json
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\PhotoBookClass\bin\Debug\net6.0\PhotoBookClass.dll
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\PhotoBookClass\bin\Debug\net6.0\PhotoBookClass.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.csproj.AssemblyReference.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.AssemblyInfoInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.AssemblyInfo.cs
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.dll
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\PhotoBookClass\obj\Debug\net6.0\refint\PhotoBookClass.dll
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.pdb
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\PhotoBookClass\obj\Debug\net6.0\PhotoBookClass.genruntimeconfig.cache
+C:\Users\valentina\Documents\FullStackDevelopment\CSharpExersizes\OPP\PhotoBookClass\obj\Debug\net6.0\ref\PhotoBookClass.dll
